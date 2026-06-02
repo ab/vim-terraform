@@ -26,6 +26,7 @@ SETTINGS                                                 *terraform-settings*
 
 *g:terraform_binary_path*
     Allow vim-terraform to use a custom path for the terraform binary.
+    Set this to tofu to use OpenTofu instead.
     Default: terraform
 
 *g:terraform_fmt_on_save*
